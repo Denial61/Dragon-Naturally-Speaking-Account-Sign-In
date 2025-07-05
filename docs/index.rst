@@ -6,11 +6,11 @@ How Do I Sign In to My Dragon NaturallySpeaking Account?
    :caption: Contents:
 Discover how to easily sign in to your Dragon NaturallySpeaking account, including troubleshooting tips and answers to common login questions.
 
-  .. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+  .. image:: sign-in.jpg
    :alt: Dragon Naturally Speaking Sign In Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/dragon-naturally-speaking-signin
+   :target: https://dragonnaturallyspeakingaccount.com/
 
 Everyone from students to working professionals uses Nuance's Dragon NaturallySpeaking, a reliable voice recognition program, to get more done in less time.  The first step in making full use of Dragon NaturallySpeaking, whether you use it for writing, transcribing, or voice-controlled computer, is to sign into your account.
 
